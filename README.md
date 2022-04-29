@@ -1,6 +1,6 @@
 - Hello, I’m Mamadou
 - I'm currently a CS student while teaching myself
-- Shout me @ papadou2003@gmail.com
+- Shout me @ papadou0710@gmail.com
 
 <!---
 papadou0710/papadou0710 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
