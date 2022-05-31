@@ -1,5 +1,5 @@
 - Hello, I’m Mamadou
-- I'm currently a CS student while teaching myself
+- I'm currently a CS student
 - Shout me @ papadou0710@gmail.com
 
 <!---
